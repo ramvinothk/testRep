@@ -1,1 +1,1 @@
-cont a=10;
+aascont a=10;
